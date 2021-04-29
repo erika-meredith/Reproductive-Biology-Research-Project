@@ -25,3 +25,4 @@ https://docs.google.com/document/d/1th9heHaqQxIMf9pjSuLGwXiMder7LXRZebHK_QeqJ5E/
 - [ ] need csvs for original and resulting gene lists 
 - [ ] add just heart and just oocyte sets as well
 - [ ] RShiny application/Building Modularity (function making!)
+- [ ] Build out sort functionality for the full pathway list CSV file
