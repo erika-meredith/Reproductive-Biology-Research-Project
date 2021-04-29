@@ -4,14 +4,14 @@
  
 https://docs.google.com/document/d/1th9heHaqQxIMf9pjSuLGwXiMder7LXRZebHK_QeqJ5E/edit?usp=sharing
 
-# WORKFLOW
+## WORKFLOW
 
-## PYTHON VIA JUPYTER NOTEBOOKS:
+### PYTHON VIA JUPYTER NOTEBOOKS:
 - Load data from BioGPS database 
 - Sort dataframe into subsets based on various conditional expression levels
 - Export subsets as CSV files labeled to indicate its conditional parameters
 
-## R VIA RSTUDIO:
+### R VIA RSTUDIO:
 - Load CSV files in R
 - Extract list of Affymetrix IDs from each dataset
 - Manually query BioGPS database with retrieved Affymetrix IDs in ~600 gene batches 
@@ -21,7 +21,7 @@ https://docs.google.com/document/d/1th9heHaqQxIMf9pjSuLGwXiMder7LXRZebHK_QeqJ5E/
 - run PANEV networkVisualization with each dataPreparation output file to generate a folder including the resulting raw gene data in TXT format and the network visualization in HTML format 
 
 
-# TODO
+## TODO
 - [ ] need csvs for original and resulting gene lists 
 - [ ] add just heart and just oocyte sets as well
 - [ ] RShiny application/Building Modularity (function making!)
