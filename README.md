@@ -1,4 +1,4 @@
-# Reproductive Biology Research Project
+# REPRODUCTIVE BIOLOGY RESEARCH PROJECT
  
  Developing network visualizations and dataset sorting protocols as part of a computational framework for identifying and analyzing the role of certain oocyte-enriched proteins in cardiovascular and other body systems. More info here:
  
@@ -6,12 +6,12 @@ https://docs.google.com/document/d/1th9heHaqQxIMf9pjSuLGwXiMder7LXRZebHK_QeqJ5E/
 
 # WORKFLOW
 
-## PYTHON via JUPYTER NOTEBOOKS:
+## PYTHON VIA JUPYTER NOTEBOOKS:
 - Load data from BioGPS database 
 - Sort dataframe into subsets based on various conditional expression levels
 - Export subsets as CSV files labeled to indicate its conditional parameters
 
-## R via RSTUDIO:
+## R VIA RSTUDIO:
 - Load CSV files in R
 - Extract list of Affymetrix IDs from each dataset
 - Manually query BioGPS database with retrieved Affymetrix IDs in ~600 gene batches 
